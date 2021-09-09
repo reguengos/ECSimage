@@ -19,6 +19,7 @@ resultpath=/root/.aws pshawscli
 # Env Vars
 
 Pass following env vars:
+
 1-  awsprofile=tstdaccess ( definido no config/credentials)
 
 2- path para o configs ( atraves de map do local path):
