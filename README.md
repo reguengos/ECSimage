@@ -20,8 +20,10 @@ resultpath=/root/.aws pshawscli
 
 Pass following env vars:
 1-  awsprofile=tstdaccess ( definido no config/credentials)
+
 2- path para o configs ( atraves de map do local path):
 -v C:/Users/jpgsoares/.aws:/root/.aws 
+
 3- resultpath=/root/.aws --> resultpath (CSV): ( pode ser o mesmo que o path para o config)
 adicionar S3 bucket caso seja necessario.
 
