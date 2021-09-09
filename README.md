@@ -1,5 +1,6 @@
 # ECSimage
 get all docker images in all ECS clusters
+
 [![Create and publish a Docker image](https://github.com/reguengos/ECSimage/actions/workflows/Create-publish-Docker-image.yml/badge.svg?branch=main)](https://github.com/reguengos/ECSimage/actions/workflows/Create-publish-Docker-image.yml)
 
 # Powershell+AWSCLI runner
